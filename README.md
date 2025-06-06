@@ -1,16 +1,28 @@
-## Hi there 👋
+<h2 align="left">Greetings</h1>
 
-<!--
-**silrenan/silrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+      🎯 Goals: Mastering cyber sorcery.
+  <br>🎲 Fun fact: The hacker waits for negligence.
+  <br>📚 I'm currently learning: GraphQL.</p>
+<h3 align="left">Active inventory</h3>
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Stats</h3>
+
+[![silrenan's Tryhackme](https://tryhackme-badges.s3.amazonaws.com/silrenan.png)](https://tryhackme.com/p/silrenan)
+
+![silrenan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silrenan&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+
+![silrenan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=silrenan&theme=blueberry&hide_border=false)
+![silrenan's Stats](https://github-readme-stats.vercel.app/api?username=silrenan&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
