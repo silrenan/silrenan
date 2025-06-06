@@ -22,7 +22,4 @@
 
 [![silrenan's Tryhackme](https://tryhackme-badges.s3.amazonaws.com/silrenan.png)](https://tryhackme.com/p/silrenan)
 
-![silrenan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silrenan&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-
-![silrenan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=silrenan&theme=blueberry&hide_border=false)
 ![silrenan's Stats](https://github-readme-stats.vercel.app/api?username=silrenan&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
