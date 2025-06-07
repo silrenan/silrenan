@@ -23,5 +23,3 @@
 <a href="https://tryhackme.com/p/silrenan"><img src="https://tryhackme-badges.s3.amazonaws.com/silrenan.png" width="350"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=silrenan&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="silrenan's GitHub Stats" width="350" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silrenan&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="silrenan's GitHub Stats" width="350" />
