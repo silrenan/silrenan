@@ -20,6 +20,6 @@
 
 <h3 align="left">Stats</h3>
 
-[![silrenan's Tryhackme](https://tryhackme-badges.s3.amazonaws.com/silrenan.png)](https://tryhackme.com/p/silrenan)
+<a href="https://tryhackme.com/p/silrenan"><img src="https://tryhackme-badges.s3.amazonaws.com/silrenan.png" width="350"/></a>
 
-![silrenan's Stats](https://github-readme-stats.vercel.app/api?username=silrenan&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=silrenan&theme=blueberry&show_icons=true&hide_border=false&count_private=true" width="350"/>
