@@ -1,25 +1,2 @@
-<h2 align="left">Greetings</h1>
-
-<p align="left">
-      🎯 Goals: Mastering cyber sorcery.
-  <br>🎲 Fun fact: The hacker waits for negligence.
-  <br>📚 I'm currently learning: GraphQL.</p>
-<h3 align="left">Active inventory</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="20" height="20" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" height="20" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="mysql logo"  />
-</div>
-
-<h3 align="left">Stats</h3>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/silrenan.png" width="350"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=silrenan&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="silrenan's GitHub Stats" width="350" />
+![GitHub Stats Card](https://ghstats.dev/api/card?username=silrenan&theme=ayu&hide_border=true&border_radius=4&custom_title=Stats&hide=avg%2Cweek%2Cgrade&order=repos%2Ccommits%2Ccontributions%2Cissues%2Chours%2Cfollowers%2Cactive_day%2Cstars%2Cprs%2Cstreak%2Ctrend)  
+![Top Languages](https://ghstats.dev/api/langs?username=silrenan&theme=ayu&hide_border=true&max_langs=12)  
